@@ -31,6 +31,7 @@ Tools that turn public registers and government data into something citizens, jo
 ## Productivity & File Tools
 
 - **[FileOnTap](https://fileontap.com/)** — Browser-based image and PDF conversion that keeps files in the browser. `Free`
+- **[PicCollages](https://piccollages.com/)** — Free browser photo collages and image stitching with local editing and direct export; optional account work-saving uploads photos. `Free`
 
 ## Invoicing & Accounting
 
