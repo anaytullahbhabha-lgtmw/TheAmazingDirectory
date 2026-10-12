@@ -56,6 +56,7 @@ Full rules are in [CONTRIBUTING.md](CONTRIBUTING.md). In short:
 - The description is factual, one sentence, no marketing superlatives ("best", "#1", "revolutionary"), no emoji other than a country flag tag.
 - Link to the product's own homepage, without tracking or affiliate parameters.
 - Makers may list their own products — say so in the pull request.
+- No adult (18+/NSFW) products.
 
 ## Tags
 

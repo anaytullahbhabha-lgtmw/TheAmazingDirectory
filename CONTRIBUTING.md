@@ -21,6 +21,7 @@ Thanks for adding to the directory. Pull requests that follow these rules are re
 - Factual wording only: no superlatives, no pricing claims that are not on the product's own site, no emoji except a country flag tag.
 - Categories: use an existing section when one fits. A new section needs a clear, general name (for example `## Project Management`) and a matching entry in the Contents list.
 - Makers listing their own product are welcome; please mention it in the pull request description.
+- No adult content: products whose main purpose is 18+, NSFW or sexual content are not listed, even when the listing text itself is clean.
 
 ## Pull request checklist
 
