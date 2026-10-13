@@ -11,6 +11,7 @@ Makers and users are welcome to add listings through pull requests.
 - [Home Services](#home-services)
 - [Invoicing & Accounting](#invoicing--accounting)
 - [Productivity & File Tools](#productivity--file-tools)
+- [Sales Data & Enrichment](#sales-data--enrichment)
 - [How to add a listing](#how-to-add-a-listing)
 - [Tags](#tags)
 - [License](#license)
@@ -43,6 +44,10 @@ Tools that turn public registers and government data into something citizens, jo
 ## Invoicing & Accounting
 
 - **[fakturcho.com](https://www.fakturcho.com)** — Web app for EU businesses to issue invoices, proformas, credit and debit notes and quotes that meet EU requirements, with EN 16931 e-invoicing, in Bulgarian, English, German, French, Italian, Polish and Romanian; 0.10 € per issued document with 1.00 € starting credit and no subscription. `Paid` `🇪🇺`
+
+## Sales Data & Enrichment
+
+- **[looot](https://looot.ai/)** — Pay-per-call API and MCP server for B2B data, covering work email and phone lookup, company and people enrichment and company search, with one key and a prepaid balance from $5 and no charge for failed calls. `Paid` `API`
 
 ## How to add a listing
 
